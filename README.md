@@ -24,4 +24,4 @@ This project is an implementation of Conway's **Game of Life**, developed in **C
 - Learned how to work with **CMake** and **Makefile** to automate the build process for larger C projects.
 - Improved understanding of memory management, file I/O, and game loop mechanics.
 
-You can view the project on GitHub: [Game of Life](https://github.com/yourusername/GameOfLife)
+You can view the project on GitHub: [Game of Life](https://github.com/ZakariaRabahi/GameOfLife)
